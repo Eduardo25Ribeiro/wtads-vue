@@ -1,4 +1,4 @@
-# wtads-vue /  Alterações planejadas para 17 de outubro -> Mudança de layout
+# wtads-vue /  Projeto sujeito a alterações
 
 ## Project setup
 ```
