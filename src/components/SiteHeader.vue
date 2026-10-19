@@ -2,13 +2,14 @@
     <header>
         <h1>
             <img src="../assets/marca-wtads.png"> <br>
-            Wtards-teste
+            Wtads-teste
 
         </h1>
         <nav>
             <ol>
                 <li><router-link to="/">Programação</router-link></li>
                 <li><router-link to="/projetos">Projetos</router-link></li>
+                <li><router-link to="/noticias">Noticias</router-link></li>
             </ol>
         </nav>
         <h1><img src="../assets/imagem-destaque.png" alt=""></h1>
@@ -19,4 +20,4 @@
         export default {
             name: "SiteHeader"
         }
-    </script>
+</script>
